@@ -1,0 +1,1 @@
+29-Jul-15:  Kickoff - Chris to learn Git, start DropWizard tutorial
