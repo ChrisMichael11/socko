@@ -4,14 +4,18 @@
  * @author Gary Cornell
  */
 public class HelloChris
-/ "HelloChris" is the name of the class and the name of the .java file
+/* "HelloChris" is the name of the class and the name of the .java file */
 {
    public static void main(String[] args)
 
    {
+      System.out.println("");
       System.out.println("I will not use 'Hello, World!'");
-      System.out.println("We will use something other than that.");
-      System.out.println("I will say 'Hello, Chris you are so cool!'")
+      System.out.println("");
+      System.out.println("I will use something cooler than that.");
+      System.out.println("");
+      System.out.println("I will say 'Hello, Chris you are so cool!'");
+      System.out.println("");
    }
 }
 
