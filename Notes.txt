@@ -1,1 +1,2 @@
 29-Jul-15:  Kickoff - Chris to learn Git, start DropWizard tutorial
+10-Aug-15:  Chris to use Gradle to build “hello world” type app, similar to DropWizard tutorial.  
