@@ -1,0 +1,10 @@
+Client/User
+|
+UserName|											   
+-------------------------------------
+|		    |		    |	
+UserData	Password 	Additional Details
+|
+Socks------------------------------------------------------------------------------------
+|			|			|			| 		|
+Age of Sock 	       Color		       Style		       Size      Photo Reference
