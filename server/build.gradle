@@ -35,13 +35,14 @@ dependencies {
     'io.dropwizard:dropwizard-core:' + dropWizardVersion,
     'io.dropwizard.modules:dropwizard-java8:' + dropWizardJava8Version,
     'io.dropwizard.modules:dropwizard-java8-auth:' + dropWizardJava8Version,
-    'io.dropwizard.modules:dropwizard-java8-jdbi:' + dropWizardJava8Version
+    'io.dropwizard.modules:dropwizard-java8-jdbi:' + dropWizardJava8Version,
+    'postgresql:postgresql:9.0-801.jdbc4'
   )
 
   testCompile (
     'io.dropwizard:dropwizard-testing:' + dropWizardVersion,
     'junit:junit:4.12',
-    'org.mockito:mockito-all:1.10.14',
+    'org.mockito:mockito-all:1.8.4', // Changed 17 Nov - 'org.mockito:mockito-all:1.8.4'
     'org.assertj:assertj-core:1.7.0',
     )
 
